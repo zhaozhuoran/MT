@@ -1,1 +1,6 @@
-# MT
+此软件全名Ran_Math
+是包含了工具和数学工具
+是由Ran独立开发的软件
+目前有beta版本
+版本持续更新
+如有建议或BUG请联系：zhaozhuoran1203@gmail.com
